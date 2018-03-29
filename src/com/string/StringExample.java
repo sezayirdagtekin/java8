@@ -3,6 +3,11 @@ package com.string;
 import java.util.StringJoiner;
 import java.util.stream.IntStream;
 
+/**
+ * 
+ * @author dagtekin
+ *
+ */
 public class StringExample {
 
   public static void main(String[] args) {

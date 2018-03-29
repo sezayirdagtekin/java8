@@ -19,10 +19,6 @@ import java.util.stream.Stream;
 import com.stream.model.Person;
 
 
-/**
- *
- * @author José
- */
 public class CollectorsExample {
 
   public static void main(String... args) {

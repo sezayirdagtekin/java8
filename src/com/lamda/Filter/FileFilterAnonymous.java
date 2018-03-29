@@ -3,6 +3,11 @@ package com.lamda.Filter;
 import java.io.File;
 import java.io.FileFilter;
 
+/**
+ * 
+ * @author dagtekin
+ *
+ */
 public class FileFilterAnonymous {
 
   public static void main(String[] args) {
